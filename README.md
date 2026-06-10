@@ -85,11 +85,40 @@ const aryan: Developer = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
+### 🤖 AI BuildWebApp — AI-Powered Website Generator
+
+<a href="https://build-web-app.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_BuildWebApp-6366f1?style=for-the-badge&labelColor=0a0a14" alt="Live Demo"/>
+</a>
+
+</div>
+
+<br/>
+
+> Generate complete, beautiful websites from a single text prompt — powered by Groq AI.
+
+```
+Tech: React.js · Vite · Node.js · Express.js · PostgreSQL · Groq API · Clerk · Stripe · Vercel · Render
+```
+
+| Feature | Description |
+|---|---|
+| ⚡ **AI Generation** | Describe any website in plain English — Groq LLaMA 3.3 70B generates it in seconds |
+| 👁️ **Live Preview** | Instant iframe preview + fullscreen mode + HTML download |
+| 💻 **Code View** | Toggle between preview and raw HTML/CSS/JS code |
+| 🔄 **Regenerate** | One-click regenerate with same prompt for a fresh design |
+| 💳 **Credits System** | Pay-per-use model with Stripe payments integration |
+| 🎁 **Referral System** | Share referral link, earn credits for every signup |
+
+---
+
 ### 🎬 ShowTime — Movie Ticket Booking Platform
+
+<div align="center">
 
 <a href="https://showtime-virid.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_ShowTime-A78BFA?style=for-the-badge&labelColor=1a1a2e" alt="Live Demo"/>
@@ -191,4 +220,3 @@ Tech: React.js · Next.js · Node.js · MongoDB · Clerk · Inngest · Vercel
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
-
