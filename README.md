@@ -145,6 +145,35 @@ Tech: React.js · Next.js · Node.js · MongoDB · Clerk · Inngest · Vercel
 
 ---
 
+### 🍽️ The Restro — Full Stack Restaurant App
+
+<div align="center">
+
+<a href="https://the-restro.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_TheRestro-F59E0B?style=for-the-badge&labelColor=0d0d0d" alt="Live Demo"/>
+</a>
+
+</div>
+
+<br/>
+
+> A complete food ordering experience — browse menu, add to cart, place orders & track them in real-time.
+
+```
+Tech: React.js · Vite · Node.js · Express.js · MongoDB · JWT · Multer · Vercel · Render
+```
+
+| Feature | Description |
+|---|---|
+| 🥗 **Food Menu** | 20+ dishes across 8 categories with images, prices & discount badges |
+| 🛒 **Smart Cart** | Add/remove items with quantity control — cart synced to DB for logged-in users |
+| 🔐 **Auth** | JWT-based login & register with bcrypt password hashing |
+| 📦 **Order System** | Place orders with delivery address — Cash on Delivery support |
+| 📍 **Order Tracking** | Real-time order status — Food Processing → Out for Delivery → Delivered |
+| 🎨 **Premium UI** | Dark restaurant theme with veg/non-veg indicators & animated hero section |
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
