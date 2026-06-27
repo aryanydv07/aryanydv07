@@ -40,9 +40,9 @@ const aryan: Developer = {
   stack: {
     frontend:  ["React", "Next.js", "Tailwind CSS"],
     backend:   ["Node.js", "Express.js"],
-    database:  ["MongoDB", "SQL"],
+    database:  ["MongoDB", "PostgreSQL", "SQL"],
     devops:    ["AWS", "Docker", "GitHub Actions"],
-    deploy:    ["Vercel", "Cloudflare"],
+    deploy:    ["Vercel", "Render", "Cloudflare"],
   },
 
   learning:    ["System Design", "TypeScript", "Advanced AWS"],
@@ -72,6 +72,7 @@ const aryan: Developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -89,7 +90,36 @@ const aryan: Developer = {
 
 <div align="center">
 
+### ✨ ContentCreate.AI — AI-Powered UGC Video Ad Generator
+
+<a href="https://content-create-ai.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_ContentCreate.AI-7C3AED?style=for-the-badge&labelColor=07090F" alt="Live Demo"/>
+</a>
+
+</div>
+
+<br/>
+
+> Generate viral UGC short video ads for TikTok, Instagram & YouTube — scripts, hooks, hashtags & AI images in seconds.
+
+```
+Tech: React.js · Vite · Node.js · Express.js · PostgreSQL · Groq LLaMA 3.3 70B · Clerk · Pollinations.AI · Vercel · Render
+```
+
+| Feature | Description |
+|---|---|
+| 🤖 **AI Ad Generation** | Full 30-60 sec scripts with scene directions via Groq LLaMA 3.3 70B |
+| 🎯 **Viral Hooks** | 3 scroll-stopping hook options generated per ad |
+| 🎨 **AI Image Generation** | Free scene images via Pollinations.AI — no API key needed |
+| #️⃣ **Hashtag Packs** | Platform-optimized hashtag sets for TikTok, Instagram & YouTube |
+| 📄 **PDF Export** | Download complete ad package as PDF in one click |
+| 🌍 **Community Gallery** | Browse public ads from all creators with platform filters |
+
+---
+
 ### 🤖 AI BuildWebApp — AI-Powered Website Generator
+
+<div align="center">
 
 <a href="https://build-web-app.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Visit_BuildWebApp-6366f1?style=for-the-badge&labelColor=0a0a14" alt="Live Demo"/>
