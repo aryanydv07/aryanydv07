@@ -32,7 +32,7 @@
 ```ts
 const aryan: Developer = {
   name:     "Aryan Yadav",
-  location: "Lucknow, India 🇮🇳",
+  location: "Gurugram, India 🇮🇳",
   role:     "Full-Stack Web Developer",
   college:  "B.Tech CSE — DSMNRU",
   company:  "Bytematrix.in (Intern)",
