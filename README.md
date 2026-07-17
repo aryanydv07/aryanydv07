@@ -34,14 +34,15 @@ const aryan: Developer = {
   name:     "Aryan Yadav",
   location: "Gurugram, India 🇮🇳",
   role:     "Full-Stack Web Developer",
-  college:  "B.Tech CSE — DSMNRU",
-  company:  "Bytematrix.in (Intern)",
+  college:  "B.Tech CSE — DSMNRU (CGPA 8.02)",
+  company:  "THE ENTREPRENEURSHIP (TEN) Pvt. Ltd. (MERN Intern)",
 
   stack: {
-    frontend:  ["React", "Next.js", "Tailwind CSS"],
-    backend:   ["Node.js", "Express.js"],
-    database:  ["MongoDB", "PostgreSQL", "SQL"],
-    devops:    ["AWS", "Docker", "GitHub Actions"],
+    languages: ["JavaScript (ES6+)", "Java", "C", "SQL"],
+    frontend:  ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+    backend:   ["Node.js", "Express.js", "REST APIs", "JWT", "Webhooks"],
+    database:  ["MongoDB (Mongoose)", "PostgreSQL (Neon)", "MySQL"],
+    devops:    ["AWS (EC2, S3)", "Docker", "GitHub Actions CI/CD"],
     deploy:    ["Vercel", "Render", "Cloudflare"],
   },
 
@@ -63,6 +64,7 @@ const aryan: Developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,6 +76,7 @@ const aryan: Developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -129,20 +132,20 @@ Tech: React.js · Vite · Node.js · Express.js · PostgreSQL · Groq LLaMA 3.3 
 
 <br/>
 
-> Generate complete, beautiful websites from a single text prompt — powered by Groq AI.
+> Describe any website in plain English — Groq LLaMA 3.3 70B generates a complete, responsive HTML/CSS/JS site in under 10 seconds.
 
 ```
-Tech: React.js · Vite · Node.js · Express.js · PostgreSQL · Groq API · Clerk · Stripe · Vercel · Render
+Tech: React.js · Vite · Node.js · Express.js · PostgreSQL (Neon) · Groq API · Clerk · Stripe · Vercel · Render
 ```
 
 | Feature | Description |
 |---|---|
-| ⚡ **AI Generation** | Describe any website in plain English — Groq LLaMA 3.3 70B generates it in seconds |
+| ⚡ **AI Generation** | Groq LLaMA 3.3 70B generates a full site from a plain-English prompt in under 10s |
 | 👁️ **Live Preview** | Instant iframe preview + fullscreen mode + HTML download |
 | 💻 **Code View** | Toggle between preview and raw HTML/CSS/JS code |
 | 🔄 **Regenerate** | One-click regenerate with same prompt for a fresh design |
-| 💳 **Credits System** | Pay-per-use model with Stripe payments integration |
-| 🎁 **Referral System** | Share referral link, earn credits for every signup |
+| 💳 **Credits System** | Stripe Checkout-powered pay-per-use monetisation model |
+| 🎁 **Referral & Earn** | Bonus credits for both referrer and new user on signup |
 
 ---
 
@@ -158,20 +161,20 @@ Tech: React.js · Vite · Node.js · Express.js · PostgreSQL · Groq API · Cle
 
 <br/>
 
-> A full-stack cinema booking experience — built for speed, scale, and seamless UX.
+> A full-stack cinema booking experience with real-time seat selection and dynamic movie data via TMDB API — built for speed, scale, and seamless UX.
 
 ```
-Tech: React.js · Next.js · Node.js · MongoDB · Clerk · Inngest · Vercel
+Tech: React.js · Node.js · MongoDB · Clerk · Inngest · Stripe · Vercel · Brevo · Nodemailer
 ```
 
 | Feature | Description |
 |---|---|
 | 🎟️ **Real-Time Seats** | Live seat selection with conflict resolution — no double bookings |
-| 💳 **Payments** | Secure online payment integration with instant confirmation |
-| 🔐 **Auth** | Session management & authentication via Clerk |
-| ⚡ **Event-Driven** | Background workflows powered by Inngest |
+| 💳 **Payments** | Secure Stripe payment integration with instant confirmation |
+| 🔐 **Auth** | Multi-provider sign-in & session management via Clerk |
+| ⚡ **Event-Driven** | Background workflows powered by Inngest for booking confirmations & async notifications |
+| 📧 **Notifications** | Transactional emails via Brevo & Nodemailer |
 | 📊 **Dashboard** | Personalized user dashboard with favorites & booking history |
-| 🚀 **Performance** | Deployed on Vercel · High Lighthouse scores across all metrics |
 
 ---
 
@@ -233,18 +236,31 @@ Tech: React.js · Vite · Node.js · Express.js · MongoDB · JWT · Multer · V
 
 | 🏢 Company | 🎯 Role | 📅 Duration |
 |:---:|:---:|:---:|
-| **Bytematrix.in** | Software Engineer Intern | June 2025 – Aug 2025 |
+| **THE ENTREPRENEURSHIP (TEN) Pvt. Ltd.** | MERN Full Stack Developer Intern | June 2026 – Sept 2026 |
+| **Bytematrix.in** | Software Engineer Intern (Remote) | June 2025 – Aug 2025 |
 
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 ```
-🥇  Full Stack Web Development          —  Apna College         (June 2024)
-🛠️  Web Development Workshop            —  Frontend & Backend   (Sept 2024)
-🎓  Campus Ambassador Intern            —                       (Oct–Nov 2024)
+💼  Software Engineering Job Simulation   —  JPMorgan Chase (Forage)    (June 2026)
+🎓  Employability Enhancement Programme   —  Centum Foundation (Infosys) (Dec 2025)
+🛠️  Web Development Workshop              —  Frontend & Backend         (Sept 2024)
+🥇  Full Stack Web Development            —  Apna College               (June 2024)
+```
+
+## 🎖️ Position of Responsibility
+
+```
+👥  Treasurer, Computer Engineering Society, DSMNRU Lucknow   (Jul 2023 – Jan 2026)
+    — Led a dev team to build & deploy a full-stack app with user roles + video streaming
+    — Developed the official CES website
+
+🎓  Campus Ambassador Intern                                  (Oct – Nov 2024)
+    — Represented and promoted tech initiatives at university level
 ```
 
 ---
